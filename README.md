@@ -1,4 +1,4 @@
-# cryptoWeapons
+# CryptoWeapons
 The goal of this project was to create a unique NFT collection. 
 At first the NFTs are minted normally (for a fee). Thereby 12x12x12 (all bows, all strings, all arrows) possible NFTs are available.
 Afterwards they can be improved by starting an "Enhancement-Process". A small fee has to be paid and there is a certain probability that it will work.
