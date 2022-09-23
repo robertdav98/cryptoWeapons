@@ -1,5 +1,5 @@
 # CryptoWeapons
-The goal of this project was to create a unique NFT collection. 
+The goal of this project was to create a unique NFT collection. One NFT is currently deployed and fully functioning. Check it out on the opensea testnet: https://testnets.opensea.io/assets/mumbai/0x7b90d376ec52966f123404fb0c262bea3a8f603e/0/
 At first the NFTs are minted normally (for a fee). Thereby 12x12x12 (all bows, all strings, all arrows) possible NFTs are available.
 Afterwards they can be improved by starting an "Enhancement-Process". A small fee has to be paid and there is a certain probability that it will work.
 If it works, the NFT gets better, which changes the background and the frame.
